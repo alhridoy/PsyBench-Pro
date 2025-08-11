@@ -1,8 +1,5 @@
 # PsyBench-Pro
 
-**A comprehensive LLM evaluation framework for mental health AI applications**
-
-Built for the X (Google X) AI Mental Health Residency Application - demonstrating cutting-edge evaluation capabilities for AI safety in mental health contexts.
 
 ## 🌟 Key Features
 
