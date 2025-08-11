@@ -1,4 +1,4 @@
-# MentalHealth-Bench Pro
+# PsyBench-Pro
 
 **A comprehensive LLM evaluation framework for mental health AI applications**
 
@@ -30,7 +30,11 @@ Built for the X (Google X) AI Mental Health Residency Application - demonstratin
 ### 1. Installation
 
 ```bash
-cd mentalhealth_bench_pro
+# Clone the repository
+git clone https://github.com/alhridoy/PsyBench-Pro.git
+cd PsyBench-Pro
+
+# Install dependencies
 pip install -r requirements_real.txt
 ```
 
@@ -85,7 +89,7 @@ From our testing of 8 leading models on mental health scenarios:
 ## 📁 Project Structure
 
 ```
-mentalhealth_bench_pro/
+PsyBench-Pro/
 ├── src/
 │   ├── core.py              # Core data structures
 │   ├── generator.py         # Test case generation
@@ -163,11 +167,11 @@ This framework is designed for:
 ## 📝 Citation
 
 ```bibtex
-@software{mentalhealth_bench_pro,
-  title={MentalHealth-Bench Pro: Comprehensive LLM Evaluation for Mental Health},
+@software{psybench_pro,
+  title={PsyBench-Pro: Comprehensive LLM Evaluation for Mental Health},
   author={Mental Health AI Research Team},
   year={2024},
-  url={https://github.com/your-repo/mentalhealth-bench-pro}
+  url={https://github.com/alhridoy/PsyBench-Pro}
 }
 ```
 

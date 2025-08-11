@@ -213,7 +213,7 @@ We successfully conducted the most comprehensive mental health AI evaluation to 
 
 ### **Code Repository:**
 ```
-mentalhealth_bench_pro/
+PsyBench-Pro/
 ├── src/                          # Core framework (2,000+ lines)
 ├── demo.py                       # Mock model demonstration
 ├── quick_real_test.py            # Initial real model testing ✅
