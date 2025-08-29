@@ -1,8 +1,6 @@
 # PsyBench-Pro
 
 
-## 🌟 Key Features
-
 ### Advanced Evaluation Metrics
 - **Clinical Accuracy**: Measures therapeutic response appropriateness
 - **Safety Scoring**: Crisis detection and emergency response evaluation  
